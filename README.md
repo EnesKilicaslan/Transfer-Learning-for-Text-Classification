@@ -14,10 +14,14 @@
 
 - [PyTorch Transfer Learning implementation](http://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
 
+- [x] [Text Classification](https://machinelearnings.co/text-classification-using-neural-networks-f5cd7b8765c6)
+
+- [Sckit learn 20 News groups](http://scikit-learn.org/stable/datasets/twenty_newsgroups.html)
+
+- [Sckit-Learn/Keras implementation and Transfer Learning Definition](https://www.analyticsvidhya.com/blog/2017/06/transfer-learning-the-art-of-fine-tuning-a-pre-trained-model/)
 
 
 #### ToDo List
-
-[ ] Andrew NG Courses
-[ ] Deep Learning for Text Understanding from Scratch TensorFlow
-[ ] Transfer Learning TensorFlow
+- [ ] Andrew NG Courses
+- [ ] Deep Learning for Text Understanding from Scratch tensorFlow
+- [ ] Transfer Learning TensorFlow
