@@ -30,6 +30,7 @@
 - [Sckit-Flow :)](https://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
 - [from sckit to tensorflow and Good Intro](https://medium.com/@Zelros/4-steps-to-learn-tensorflow-when-you-already-know-scikit-learn-3cd0340456b5)
 
+- [estimator DNNClassifier](https://www.tensorflow.org/get_started/estimator)
 
 #### ToDo List
 - [ ] Andrew NG Courses
